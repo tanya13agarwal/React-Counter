@@ -9,7 +9,7 @@
 
 <h2>🚀 Live </h2>
 
-[React Counter website]( https://counter-website-sepia.vercel.app/  )
+[React Counter website](https://react-counter-tau-ten.vercel.app/)
 
 <br></br>
   
